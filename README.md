@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/AllanPMedeiros">
-   <img height="180em" src="(https://metrics.lecoq.io/AllanPMedeiros)">
+   <img height="180em" src="https://metrics.lecoq.io/AllanPMedeiros?base=header,activity,community,repositories,metadata&theme=dracula">
    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanPMedeiros&layout=compact&langs_count=6&theme=tokyonight"/> -->
 </div>
 
