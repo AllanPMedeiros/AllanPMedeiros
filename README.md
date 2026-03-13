@@ -1,4 +1,7 @@
 ## Bem-vindo(a) ao perfil do AllanPMedeiros 😁
+<p>
+ Olá, Me chamo Allan Patrick, tenho 25 anos e sou formado em análise e desenvolvimento de sistemas(ADS) e atualmente estudo Desenvolvimento web na plataforma da rocketseat, tenho curiosidade a respeito da area de cybersegurança, hacking ético e investigação digital 
+</p>
 
  <div>
    <a href="https://github.com/AllanPMedeiros">
