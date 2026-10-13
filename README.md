@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do AllanPMedeiros 😁
 <p>
- Olá, Me chamo Allan Patrick, tenho 25 anos e sou formado em análise e desenvolvimento de sistemas(ADS) e atualmente estudo Desenvolvimento web na plataforma da rocketseat, tenho curiosidade a respeito da area de cybersegurança, hacking ético e investigação digital 
+ Olá, Me chamo Allan Patrick, tenho 25 anos e sou formado em análise e desenvolvimento de sistemas(ADS) e atualmente ando estudando python para entrada na área de segurança ofensiva em cibersegurança, posteriormente tenho interesse em investigação digital e pericia forense.
 </p>
 
  <div>
@@ -10,9 +10,10 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <img align="center" alt="PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
  
  <br>
