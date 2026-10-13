@@ -3,10 +3,8 @@
  Olá, Me chamo Allan Patrick, tenho 25 anos e sou formado em análise e desenvolvimento de sistemas(ADS) e atualmente ando estudando python para entrada na área de segurança ofensiva em cibersegurança, posteriormente tenho interesse em investigação digital e pericia forense.
 </p>
 
- <div>
-   <a href="https://github.com/AllanPMedeiros">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanPMedeiros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanPMedeiros&layout=compact&langs_count=6&theme=tokyonight"/>
+<div align="center">
+  <img height="220em" src="./github-metrics.svg" alt="GitHub Metrics de AllanPMedeiros" />
 </div>
 
 <div style="display: inline_block"><br>
